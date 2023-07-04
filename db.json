@@ -1,0 +1,50 @@
+{
+  "applications": [
+    {
+      "name": "Георгий Мурашов",
+      "phone": "89999999991",
+      "email": "goshkamurzik@yandex.ru",
+      "product": "course-js",
+      "date": "4.7.2023",
+      "status": "new",
+      "id": 1,
+      "undefined": "89999999991"
+    },
+    {
+      "name": "Алексей Голосов",
+      "phone": "89999999991",
+      "email": "test@mail.ru",
+      "product": "course-js",
+      "date": "4.7.2023",
+      "status": "new",
+      "id": 2
+    },
+    {
+      "name": "Надежда Иванова",
+      "phone": "79671168227",
+      "email": "test@mail.ru",
+      "product": "course-wordpress",
+      "date": "4.7.2023",
+      "status": "new",
+      "id": 3
+    },
+    {
+      "name": "Антонов Антон",
+      "phone": "7113222332",
+      "email": "test@mail.ru",
+      "product": "course-php",
+      "date": "4.7.2023",
+      "status": "new",
+      "id": 4
+    },
+    {
+      "name": "Андрей Спиридонов",
+      "phone": "78983456781",
+      "email": "test@mail.ru",
+      "product": "course-vue",
+      "date": "4.7.2023",
+      "status": "new",
+      "id": 5
+    }
+  ]
+}
